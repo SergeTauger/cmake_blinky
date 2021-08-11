@@ -1,0 +1,5 @@
+/mnt/c/tauger/coding/printer/tests_fsm/blinky_cmake/build-avr/CMakeFiles/rebuild_cache.dir
+/mnt/c/tauger/coding/printer/tests_fsm/blinky_cmake/build-avr/CMakeFiles/blinky-flash.dir
+/mnt/c/tauger/coding/printer/tests_fsm/blinky_cmake/build-avr/CMakeFiles/edit_cache.dir
+/mnt/c/tauger/coding/printer/tests_fsm/blinky_cmake/build-avr/CMakeFiles/blinky-config.dir
+/mnt/c/tauger/coding/printer/tests_fsm/blinky_cmake/build-avr/CMakeFiles/blinky.dir
